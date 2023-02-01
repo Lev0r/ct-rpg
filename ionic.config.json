@@ -1,0 +1,7 @@
+{
+  "name": "CtRpg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
